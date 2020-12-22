@@ -1,0 +1,15 @@
+{
+  "name": "robustrambles-data",
+  "version": "0.0.1",
+  "description": "Data repository for Robust Rambles",
+  "main": "index.js",
+  "repository": "git@github.com:robustrambles/data.git",
+  "author": "Andrew Bridge <andrew@andrewhbridge.co.uk>",
+  "license": "NOLICENSE",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1",
+    "showdown": "^1.9.1",
+    "yaml": "^1.10.0"
+  }
+}
